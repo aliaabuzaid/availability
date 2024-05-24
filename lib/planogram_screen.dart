@@ -100,7 +100,8 @@ class Planogram extends StatelessWidget {
               ],
             ),
             SizedBox(height: 50,),
-            Expanded(child:  Container(
+            Expanded(child:
+            Container(
               margin: EdgeInsets.all(15),
               width: width,
               decoration: BoxDecoration(
